@@ -1,0 +1,2 @@
+# dailyExe
+about some study
